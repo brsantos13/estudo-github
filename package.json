@@ -1,0 +1,11 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "author": "bruno",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
